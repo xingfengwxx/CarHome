@@ -9,3 +9,6 @@
 - Lifecycle (生命周期管理)
 - DataBinding（数据绑定）
 - ViewBinding（视图绑定）
+
+![](https://gitee.com/xingfengwxx/blogImage/raw/master/img/20210802152548.webp)
+
